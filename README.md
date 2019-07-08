@@ -1,2 +1,2 @@
-# python-goontools
+# python-tools
 Small useful methods
